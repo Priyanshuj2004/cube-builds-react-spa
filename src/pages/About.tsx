@@ -33,6 +33,42 @@ const About = () => {
               Through our comprehensive ecosystem of services - from properties and interiors to investments and education - we create lasting value for our clients and communities. Each project is a testament to our commitment to excellence and innovation.
             </p>
           </div>
+
+          <div className="about-section">
+            <h2>Why Choose Cube Construction?</h2>
+            <div className="features-grid">
+              <div className="feature-card">
+                <h3>20+ Years of Excellence</h3>
+                <p>Two decades of delivering exceptional construction and real estate projects across India.</p>
+              </div>
+              <div className="feature-card">
+                <h3>Sustainable Development</h3>
+                <p>Committed to eco-friendly construction practices and green building technologies.</p>
+              </div>
+              <div className="feature-card">
+                <h3>Customer-Centric Approach</h3>
+                <p>Every project is tailored to meet our clients' unique needs and aspirations.</p>
+              </div>
+              <div className="feature-card">
+                <h3>Quality Assurance</h3>
+                <p>Rigorous quality control measures ensure the highest standards in every project.</p>
+              </div>
+            </div>
+          </div>
+
+          <div className="about-section">
+            <h2>Our Team</h2>
+            <p>
+              Our diverse team of architects, engineers, project managers, and construction specialists brings together decades of experience and expertise. We believe that great buildings are created by great teams working together towards a common vision.
+            </p>
+          </div>
+
+          <div className="about-section">
+            <h2>Awards & Recognition</h2>
+            <p>
+              Cube Construction has been recognized with numerous industry awards for excellence in construction, innovation in design, and commitment to sustainable development practices.
+            </p>
+          </div>
         </div>
       </div>
     </div>
